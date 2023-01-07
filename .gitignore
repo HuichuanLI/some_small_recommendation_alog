@@ -16,3 +16,5 @@ SVM_hotel/train/word2vec/
 *.zip
 
 *.pkl
+
+music_recommend/track_metadata.db
