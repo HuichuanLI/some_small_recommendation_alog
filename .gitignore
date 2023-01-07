@@ -10,3 +10,9 @@ SVM_hotel/front/HelloWorld/HelloWorld/__pycache__/
 SVM_hotel/train/word2vec/
 
 *.m
+
+.DS_Store
+
+*.zip
+
+*.pkl
