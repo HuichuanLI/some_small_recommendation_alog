@@ -1,0 +1,12 @@
+
+.idea/
+
+*.txt
+
+SVM_hotel/front/HelloWorld/HelloWorld/__pycache__/
+
+*.csv
+
+SVM_hotel/train/word2vec/
+
+*.m
